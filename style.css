@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+#details{
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+}
+header{
+  margin: auto;
+  text-align: center;
+}
+header a{
+  padding: 0 10px 0 10px;
+  background-color: aqua;
+}
+
+
+figure {
+  margin: auto;
+  display: block;
+  text-align: center;
+  width: 900px;
+
+  
+}
+#featured-property p {
+  text-align: center;
+  padding: ;
+  width: 800px; 
+  margin: auto;
+
+  
+}
